@@ -8,3 +8,5 @@
 7. [ ] Effects: EQ, reverb (convolution), compressor, per-track inserts
 8. [ ] Automation lanes, MIDI keyboard input
 9. [ ] Plugin/instrument slots, sound-pack store
+
+1.5 [x] Material 3 redesign: theme, track cards, piano keys, animated transport
